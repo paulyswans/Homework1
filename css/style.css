@@ -1,0 +1,32 @@
+body {
+    background-image: url("../assets/images/concrete_seamless.png");
+}
+
+nav li {
+    display: inline;
+    
+}
+
+header, nav {
+    float: left;
+}
+
+header h1 {
+    background-color: green;
+    padding: 15px;
+}
+
+#topSection {
+    background-color: white;
+}
+
+#myname{
+    display: block;
+    width: 100%;
+    height: auto;
+}
+
+.top {
+    width: 960px;
+    height: 100px;
+}
